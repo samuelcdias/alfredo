@@ -1,2 +1,3 @@
-# alfredo
-Alfredo is a 
+# Alfredo
+
+Alfredo is an offline mobile first inventory manager
